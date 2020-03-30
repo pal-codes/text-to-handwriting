@@ -6,15 +6,23 @@ I hate writing assignments so I made this tool that converts text to an image th
 
 **Link:** https://saurabhdaware.github.io/text-to-handwriting/
 
-Also, I am trying to make this look more realisic and if you can help with it, do contribute 🌻
+Also, I am trying to make this look more realistic and I would love to have people contribute in it🌻
 
-## This is how output looks currently
+## This is how output will look
 ![Sample image of output](sample.jpeg)
+
+
+
+## How to add your own handwriting?
+- To use your handwriting, you will have to generate font of your handwriting. 
+- You can do that using [Calligraphr](https://www.calligraphr.com/en/)
+- Once you get .ttf file of your handwriting, just upload it from upload button and boom! you will have your handwriting in the image.
 
 
 ## Contributing
 
 Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution guide.
+
 
 ---
 
